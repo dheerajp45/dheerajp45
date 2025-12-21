@@ -1,6 +1,8 @@
 # 💫 About Me:
 🚀 About Me<br><br>🔭 I’m currently working on<br><br>Backend development with Node.js, Express & MongoDB<br><br>Building small projects to strengthen API design & authentication<br><br>Practicing real-world MERN use cases<br><br>👯 I’m looking to collaborate on<br><br>Beginner–intermediate MERN stack projects<br><br>Open-source projects related to backend or AI tools<br><br>Learning-focused projects with other developers<br><br>🤝 I’m looking for help with<br><br>Writing clean, scalable backend architecture<br><br>Improving system design basics<br><br>Deploying full-stack apps (best practices)<br><br>🌱 I’m currently learning<br><br>MERN Stack (Backend-first approach)<br><br>Python for AI & Machine Learning<br><br>Basics of Generative AI & LLMs<br><br>💬 Ask me about<br><br>JavaScript fundamentals<br><br>Express.js & REST APIs<br><br>Backend learning roadmap for beginners<br><br>How I’m learning AI step by step<br><br>⚡ Fun fact: I prefer backend logic over frontend design.
-
+Backend-focused developer learning by building real projects.
+Currently working with Node.js, Express, and MongoDB, and slowly moving into AI & ML using Python.
+I enjoy writing clean backend logic, designing APIs, and understanding how things work behind the scenes.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dheerajpanyam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dheeraj.panyam@gmail.com) 
