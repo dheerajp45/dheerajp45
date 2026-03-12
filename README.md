@@ -6,7 +6,7 @@
 🚀 **Backend-focused Developer | MERN Stack Learner | AI Enthusiast**
 
 I’m a backend-first developer who loves building **clean, scalable APIs** and understanding how systems work behind the scenes.
-Currently focused on **Node.js, Express, and MongoDB**, while gradually moving into **AI & Machine Learning with Python**.
+Currently focused on **Node.js, Express, MongoDB & React.js**, while gradually moving into **AI & Machine Learning with Python**.
 
 I learn best by **building real projects**, breaking things, fixing them, and improving architecture step by step.
 
@@ -14,7 +14,7 @@ I learn best by **building real projects**, breaking things, fixing them, and im
 
 ## 🔭 What I’m Currently Working On
 
-* Backend development using **Node.js, Express & MongoDB**
+* Full Stack  development using **Node.js, Express, MongoDB & React.js**
 * Building small-to-medium projects to improve **API design & authentication**
 * Practicing **real-world MERN use cases** with a backend-first approach
 
@@ -23,7 +23,7 @@ I learn best by **building real projects**, breaking things, fixing them, and im
 ## 👯 Looking to Collaborate On
 
 * Beginner → Intermediate **MERN stack projects**
-* **Open-source projects** related to backend or AI tools
+* **Open-source projects** related to MERN
 * Learning-focused projects with other developers
 
 ---
@@ -36,29 +36,6 @@ I learn best by **building real projects**, breaking things, fixing them, and im
 
 ---
 
-## 🌱 Currently Learning
-
-* **MERN Stack** (Backend-first)
-* **Python** for AI & Machine Learning
-* Basics of **Generative AI & Large Language Models (LLMs)**
-
----
-
-## 💬 Ask Me About
-
-* JavaScript fundamentals
-* Express.js & REST API design
-* Backend learning roadmap for beginners
-* How I’m learning AI step-by-step
-
----
-
-## ⚡ Fun Fact
-
-I enjoy backend logic way more than frontend design 😄
-Give me APIs, databases, and logic over pixels any day.
-
----
 
 ## 🌐 Connect With Me
 
