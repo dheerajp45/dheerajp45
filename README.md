@@ -20,12 +20,19 @@ Currently, I'm expanding my backend expertise by building production-style appli
 
 ---
 
+---
+
 ## 💼 Open Source
 
-- ✅ Contributed to **JetBrains ThinkRail**
-- Fixed a React UI bug involving scroll state management
-- Collaborated with maintainers through code reviews
-- Successfully merged my first production open-source contribution
+### 🚆 JetBrains ThinkRail
+
+- 🐞 Fixed a React UI bug where the **"Jump to bottom"** control remained visible after scrolling.
+- ⚛️ Refactored scroll tracking by separating `useRef` from reactive `useState`.
+- 🤝 Collaborated with JetBrains maintainers through code review and documentation updates.
+- ✅ Successfully merged my first production open-source contribution.
+
+🔗 **Pull Request:** https://github.com/JetBrains/thinkrail/pull/35
+
 
 ---
 
